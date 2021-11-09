@@ -20,7 +20,11 @@ table{
 }
 h1{
     font-family: Chalkduster;
-    color: inherit;
+    color: rgb(148, 111, 111);
+}
+span{
+    color:blue;
+    font-size:50px;
 }
 img{
     width: 100%;
